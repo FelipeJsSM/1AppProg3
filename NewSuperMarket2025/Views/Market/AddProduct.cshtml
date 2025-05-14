@@ -1,0 +1,45 @@
+﻿@model NewProductViewModel
+@{
+    ViewData["Title"] = "Add product";
+}
+
+<div class="row">
+    <div class="col-12 col-md-6 offset-md-3">
+        <div class="card">
+            <div class="card-header bg-primary text-light">
+                <h5 class="text-center">Add new product</h5>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Market" asp-action="AddProduct" method="post">
+                    <div class="mb-3">
+                        <label asp-for="Name" class="form-label">Name:</label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Price" class="form-label">Price:</label>
+                        <input asp-for="Price" class="form-control" />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Type" class="form-label">Product Type:</label>
+                        <select asp-for="Type" class="form-select" >
+                            <option value="1">Fruits</option>
+                            <option value="2">Vegetables</option>
+                            <option value="3">Dairy products</option>
+                        </select>
+                        <span asp-validation-for="Type" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Description" class="form-label">Description:</label>
+                        <textarea asp-for="Description" class="form-control"></textarea>
+                    </div>
+                    <div>
+                        <a asp-controller="Market" asp-action="Index" class="btn btn-outline-warning float-end">Back to home</a>
+                        <button type="submit" class="btn btn-outline-primary float-end me-2">Save</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

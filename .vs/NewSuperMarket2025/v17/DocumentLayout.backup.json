@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF242D2F-2C5F-4D52-9A9C-188C09B6D464}|NewSuperMarket2025\\NewSuperMarket2025.csproj|c:\\users\\leona\\source\\repos\\newsupermarket2025\\newsupermarket2025\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF242D2F-2C5F-4D52-9A9C-188C09B6D464}|NewSuperMarket2025\\NewSuperMarket2025.csproj|solutionrelative:newsupermarket2025\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|c:\\users\\leona\\source\\repos\\newsupermarket2025\\application\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|c:\\users\\leona\\source\\repos\\newsupermarket2025\\application\\viewmodels\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|c:\\users\\leona\\source\\repos\\newsupermarket2025\\application\\viewmodels\\newproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\newproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|c:\\users\\leona\\source\\repos\\newsupermarket2025\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|c:\\users\\leona\\source\\repos\\newsupermarket2025\\application\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|solutionrelative:application\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|c:\\users\\leona\\source\\repos\\newsupermarket2025\\application\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|solutionrelative:application\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|c:\\users\\leona\\source\\repos\\newsupermarket2025\\application\\dtos\\productlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|solutionrelative:application\\dtos\\productlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|c:\\users\\leona\\source\\repos\\newsupermarket2025\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF15FBA7-DA82-4B2E-B913-08675A5FC6C8}|Application\\Application.csproj|solutionrelative:application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF242D2F-2C5F-4D52-9A9C-188C09B6D464}|NewSuperMarket2025\\NewSuperMarket2025.csproj|c:\\users\\leona\\source\\repos\\newsupermarket2025\\newsupermarket2025\\views\\market\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF242D2F-2C5F-4D52-9A9C-188C09B6D464}|NewSuperMarket2025\\NewSuperMarket2025.csproj|solutionrelative:newsupermarket2025\\views\\market\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF242D2F-2C5F-4D52-9A9C-188C09B6D464}|NewSuperMarket2025\\NewSuperMarket2025.csproj|c:\\users\\leona\\source\\repos\\newsupermarket2025\\newsupermarket2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF242D2F-2C5F-4D52-9A9C-188C09B6D464}|NewSuperMarket2025\\NewSuperMarket2025.csproj|solutionrelative:newsupermarket2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:34:19.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\ViewModels\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\ViewModels\\ProductListViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:34:16.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\ViewModels\\NewProductViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\NewProductViewModel.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\ViewModels\\NewProductViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\NewProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:34:15.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Application\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:34:07.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\Enums\\ProductType.cs",
+              "RelativeDocumentMoniker": "Application\\Enums\\ProductType.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\Enums\\ProductType.cs",
+              "RelativeToolTip": "Application\\Enums\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:34:05.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductListDto.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\Dtos\\ProductListDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\ProductListDto.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\Dtos\\ProductListDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\ProductListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:34:04.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:34:03.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:32:15.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\NewSuperMarket2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NewSuperMarket2025\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\NewSuperMarket2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NewSuperMarket2025\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T03:23:00.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\NewSuperMarket2025\\Views\\Market\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewSuperMarket2025\\Views\\Market\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\NewSuperMarket2025\\Views\\Market\\Index.cshtml",
+              "RelativeToolTip": "NewSuperMarket2025\\Views\\Market\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T03:21:51.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarketController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\NewSuperMarket2025\\Controllers\\MarketController.cs",
+              "RelativeDocumentMoniker": "NewSuperMarket2025\\Controllers\\MarketController.cs",
+              "ToolTip": "C:\\Users\\leona\\source\\repos\\NewSuperMarket2025\\NewSuperMarket2025\\Controllers\\MarketController.cs",
+              "RelativeToolTip": "NewSuperMarket2025\\Controllers\\MarketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:20:48.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
